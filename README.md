@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jackfitton112&label=Profile%20views&color=0e75b6&style=flat" alt="jackfitton112" /> </p>
 
-- 🔭 I’m currently working on [an IoT Doorbell](https://github.com/jackfitton112/ESPCAM-Doorbell)
+- 🔭 I’m currently working on [an IoT Doorbell](https://github.com/jackfitton112/ESPCAM-Doorbell) & [A XKCD Discord Bot](https://github.com/jackfitton112/xkcd-discord)
 
 - 📫 How to reach me **jack.fitton@t2k.group**
 
